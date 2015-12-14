@@ -7,7 +7,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 $lang['termcondition_title']  = 'Terms and Conditions of Use';
 $lang['termcondition_1'] 	  = '1. PRODUCT';
-$lang['termcondition_1desc']  =  "AQARY CRM, hereafter referred to as 'AQARY CRM' operate and sell internet based computer software. Our core product is sold as [Product Name] and is offered and white labeled through a network of reseller channels. AQARY CRM is an internet based application for sales and marketing professionals. AQARY CRM offer specific solutions for the promotion and distribution of data for all businesses with specific developments for real estate and staff recruitment organizations. In addition to direct sales, there is a ‘Reseller Partner Program’.";
+$lang['termcondition_1desc']  =  "AMAAL, hereafter referred to as 'AMAAL' operate and sell internet based computer software. Our core product is sold as [Product Name] and is offered and white labeled through a network of reseller channels. AMAAL is an internet based application for sales and marketing professionals. AMAAL offer specific solutions for the promotion and distribution of data for all businesses with specific developments for real estate and staff recruitment organizations. In addition to direct sales, there is a 'Reseller Partner Program'.";
 $lang['termcondition_2']  	  = '2. PRICING';
 $lang['termcondition_2desc']  = 'Pricing is offered in UAE dirham. Pricing for the range of services and software is found on the AQARY CRM website and within the software system. AQARY CRM reserves the right to vary pricing and discounts on giving you no less than 7 days notice, published on our website.';
 $lang['termcondition_3']	  = '3. INVOICING';
